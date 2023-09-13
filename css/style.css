@@ -1,0 +1,135 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: 'Catamaran';
+}
+
+a {}
+
+.imgSize {
+    background-color: #777;
+    height: 512px;
+}
+
+.imgCard {
+    background-color: #777;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.card {
+    border: none;
+}
+
+.cardMargin {
+    text-wrap: nowrap;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.cardWidth {
+    width: 20rem;
+}
+
+body {
+    color: #5a5a5a;
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+.sideText {
+    color: #6c757d !important;
+}
+
+.leftRighrtMarginTitle {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.leftRighrtMargin {
+    margin-top: 7rem;
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+@media(max-width:540.8px) {
+    .fs-50 {
+        font-size: 24px;
+    }
+
+}
+
+@media(max-width:540.8px) {
+    .fs-5 {
+        font-size: .75rem !important;
+    }
+}
+
+.square {
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.disableColor {
+    color: rgba(255, 255, 255, .55) !important;
+}
+
+.bg-square {
+    background-color: #eee;
+    max-width: 500px;
+    max-height: 500px;
+    height: 100%;
+    width: 100%;
+}
+
+
+@media(min-width:767.7px) {
+    .padding75 {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+}
+@media(max-width:998.6px) {
+    .padding75 {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+}
+@media(min-width:998.6px) {
+    .padding75 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
+
+@media(max-width:767.7px) {
+    .padding75 {
+        height: 500px ;
+    }
+}
+.bg-none{
+    background: none ;
+}
+.stickyPosition{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.sonsuz{
+    margin-top: 5555;
+}
+.filterImg{
+    filter: brightness(0) invert(1);
+}
+.navbar-light .navbar-toggler{
+    color: #6c757d;
+    border-color: #6c757d;
+}

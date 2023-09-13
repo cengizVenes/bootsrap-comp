@@ -1,0 +1,58 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif
+        /*rtl:Amiri, Georgia, "Times New Roman", serif*/
+    ;
+}
+
+.imgSize {
+    height: 20px;
+}
+
+.headerLink a {
+    color: #6c757d;
+    padding: 10px;
+}
+
+.cardTitle {
+    font-size: 3rem;
+}
+
+.padding2rem {
+    padding-top: 1.50rem;
+    padding-right: 1.50rem;
+    padding-left: 1.50rem;
+
+}
+
+body {
+    z-index: 1;
+}
+
+.stickyPosition {
+    position: sticky;
+    top: 40px;
+}
+
+.backMenu a {
+    display: block;
+
+}
+
+.borderBottomStrong {
+    border-bottom: 2px solid black;
+}
+
+.logo:hover {
+    text-decoration: none;
+}
+.footerColor{
+    background-color: #f9f9f9;
+}
+.footerColor{
+    color: #727272;
+}
