@@ -19,5 +19,5 @@ Project is created with;
 ## Cloning the Project
 
 ```bash
-git git@github.com:cengizVenes/bootsrap-comp.git
+    git@github.com:cengizVenes/bootsrap-comp.git
 ```
