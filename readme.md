@@ -1,8 +1,8 @@
 ## General info
 
 I cloned the bootsrap carousel and made the blog samples section look largely similar, and added a few nice things of my own (responsive)
-![blog_img.png](blog.png)
-![carousel_img.png](carousel.png)
+![blog_img.png](blog_img.png)
+![carousel_img.png](carousel_img.png)
 
 
 ## Technologies
